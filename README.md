@@ -1,1 +1,1 @@
-# Pani
+# Panijs
